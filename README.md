@@ -78,6 +78,7 @@ Name  |  Description
 [Synack](https://www.youtube.com/channel/UCRH0mvESjZ7eKY1LJZDPIbw/featured) | random, news-style videos, disorganized, non-instructional
 [TippingPoint Zero Day Initiative](https://www.youtube.com/channel/UChbH7B5YhXANmlMYJRHpw0g) | very brief videos ~30 sec, somewhat instructional
 [Tripwire, Inc.](https://www.youtube.com/user/TripwireInc/videos) | some tripwire demos, and random news-style videos, non-instructional
+[Tutor Sec](https://www.youtube.com/channel/UCWTDi9iYvkZ88H9qmlz82SA/videos) | Ethical Hacking videos, instructional. In spanish! En español!
 [Vincent Yiu](https://www.youtube.com/channel/UCFVI3_M1zqFzEok2sTeEP8w/featured) | handful of videos from a single hacker, instructional
 | <td colspan="2"> **Conferences** </td>
 [44contv](https://www.youtube.com/user/44contv) | in
